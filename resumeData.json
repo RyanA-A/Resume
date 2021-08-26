@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Ryan Connolly",
+    "occupation": "Student at Virginia Tech",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "A passion of mine is applying technology to the real world.  The technologies can range from Salesforce CRM to Blockchain to JS development.  I will thrive in an environment that welcomes the next generation of thinking.  In my freetime, I enjoy health / wellness activities.  I incorporate new experiences as it has contributed and will continue to a lot to my life.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ryan.connolly.0529@gmail.com",
+   "phone": "703-622-4909",
+   "address": {
+     "street": "20310 Kiawah Island Drive",
+     "city": "Ashburn",
+     "state": "Virginia",
+     "zip": "20147"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ryan-connolly-448aa41a8/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are the Technologies that I utilize most often",
+    "education": [
+      {
+        "school": "Virginia Tech",
+        "src":"data:image/png;base64,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",
+        "degree": "Business Information Technology",
+        "graduated": "2019-2022",
+        "description": "The Business Information Technology (BIT) major is designed to provide students with expertise in the development and use of computer systems and quantitative modeling techniques for solving business problems and making managerial decisions. Students learn the necessary information technology and computing skills to develop and implement sophisticated business-related computer systems.  The degree program focuses on the practical application of computing to business problem-solving."
+        
+      },
+      {
+        "school": "Universidad de Salamanca",
+        "src":"https://logos-world.net/wp-content/uploads/2020/12/USAL-Logo.png",
+        "degree": "Core Spanish Curriculum",
+        "graduated": "2018",
+        "description": "The prestigious university, which teaches about 30,000 students, has been dubbed the ”Oxford of Spain“ and is an important centre for the study of the humanities. Salamanca University also has campuses in Ávila, Béjar and Zamora."
+      },
+      {
+        "school": "Riverside High School",
+        "src":"https://5a6a246dfe17a1aac1cd-b99970780ce78ebdd694d83e551ef810.ssl.cf1.rackcdn.com/orgheaders/3674/nesa-banner.jpg",
+        "degree": "Eagle Scout",
+        "graduated": "2017",
+        "description": "Eagle Scout is the highest achievement or rank attainable in the Scouts BSA program of the Boy Scouts of America (BSA). Since its inception in 1911, only four percent of Scouts have earned this rank after a lengthy review process. Being an Eagle Scout is important because it requires immense hard work, dedication, and service to others. It gives teens something to strive for and instills confidence, leadership, and a commitment to the community."
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "SalesForce",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png",
+        "link":  "https://www.salesforce.com/",
+        "title": "Solutions Engineer Intern",
+        "years": "2019 - 2021",
+        "description": "During my two years as part of Salesforce Futureforce I worked as a solutions engineer in the Public Sector.  I worked with both State and Local as well as the Federal customers on discovery calls, demonstrations, objection handling and closing calls.  A few of the responsibilities I had include achieving Salesforce Ranger, Tanium Integration for Rhode Island, ServiceNow Integration for Colorado.  As my project of selection I developed a Crypto Payment Component for the Salesforce platform.  I also was able to get some VTO in with the Hotmapping project for first responders."
+      },
+      {
+        "company": "MatherUSA",
+        "src": "https://s3.amazonaws.com/idx-host/website/logo/466.png",
+        "link":  "https://matherusa.com/",
+        "title": "Web Development - Real Estate Apprentice ",
+        "years": "2021",
+        "description": "As a member of a small real estate investment business I work in both the front and the back of the office as we explore new investments, operate existing properties, and manage our online presence.  A few of my responsibilities included Web Development, Managing AirBNB Properties, and Property Diligence and Valuation."
+      },
+      {
+        "company": "BeyondSof",
+        "src": "https://beyondsof.com/wp-content/themes/newbeyondsof/img/logo.png",
+        "link": "https://beyondsof.com/",
+        "title": "Web Development",
+        "years": "2016 - 2020",
+        "description": "As a member of this SDVO business in service to the American veteran, we look to place Special Forces vets into the private sector.  A few of my responsibilities included Web Development, assisting in the placement of public sector contractors, and rapidly responding to the pandemic with an Emergency Covid supplies portal."
+      }
+    ],
+    "attribute": [
+      {
+        "name": "Innovative",
+        "description": "On the lookout for the latest solutions"
+      },
+      {
+        "name": "Independent contributer",
+        "description": "Inspired work with a positive energy field"
+      },
+      {
+        "name": "Team Oriented",
+        "description": "Team player that values working together on a common mission"
+      },
+      {
+        "name": "Self Starter",
+        "description": "Focused, driven and self-directed"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "Lightning Web Component",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Final Cut Pro",
+        "level": "40%"
+      },
+      {
+        "name": "Logic Pro X",
+        "level": "60%"
+      }
+    ]
+  }
+  
+}
